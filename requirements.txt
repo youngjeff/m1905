@@ -5,5 +5,4 @@ requests
 web.py 
 scrapy-redis
 lxml
-vim
 redis
