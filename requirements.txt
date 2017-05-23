@@ -1,0 +1,9 @@
+beautifulsoup4
+sqlalchemy
+pymysql
+requests
+web.py 
+scrapy-redis
+lxml
+vim
+redis
